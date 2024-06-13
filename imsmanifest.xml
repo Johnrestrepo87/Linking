@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="NHBFGzSBLfcYw" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Linking</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="linking_organization">
+		<organization identifier="linking_organization">
+
+			<title>Linking</title>
+			<item identifier="E1B11AE6-543B-4701-8022-A22B140A9411" identifierref="resource">
+				<title>Untitled Quiz</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/audios/snd-122ba039e9df25224afd52e307f703e977aa1cbf.mp3"/>
+<file href="res/data/audios/snd-13a8d5a91141edf7aca5720e84a8859d9b3d903a.mp3"/>
+<file href="res/data/audios/snd-24bcd1482169542fcdee76356b469b876c6cd346.mp3"/>
+<file href="res/data/audios/snd-2dafa2ca78fdff70fd868e9842ed162bc3b026f4.mp3"/>
+<file href="res/data/audios/snd-34cbdf63875a2071a0e66df57a5d8f5ae805e915.mp3"/>
+<file href="res/data/audios/snd-358c7c28361a9a2050524b943d0b70fdf2a4846d.mp3"/>
+<file href="res/data/audios/snd-3bf249249e2d90602d150f5466d52a3126ff8492.mp3"/>
+<file href="res/data/audios/snd-4e8b2bcaab6f5800945e87dc3461746a3744dafc.mp3"/>
+<file href="res/data/audios/snd-533f6cc391e01914c0773a657ed6f6dccdd142a1.mp3"/>
+<file href="res/data/audios/snd-5b58152afe55e18df60912f76253261dd244c6a5.mp3"/>
+<file href="res/data/audios/snd-5f7ddbd42788e24ea46d0ebb3babe9b69f85649b.mp3"/>
+<file href="res/data/audios/snd-66bc567d573156031a30c5625d86a9972bee141a.mp3"/>
+<file href="res/data/audios/snd-8f1050f70b63185ffff40f3c1c2e12510fc17afa.mp3"/>
+<file href="res/data/audios/snd-8f892f7637966aada35ecc4e3e4dfe6b7579192c.mp3"/>
+<file href="res/data/audios/snd-98a05b953928b61329ff340b4b32ac7d2eae9fa5.mp3"/>
+<file href="res/data/audios/snd-9f781c03131df563911723f0079542aa781b2ff5.mp3"/>
+<file href="res/data/audios/snd-b67d2d0a3fcb2d2071b83159373481344f7b2d39.mp3"/>
+<file href="res/data/audios/snd-ba8e92b5442682413bf7e3e4274b0b7cab77dc71.mp3"/>
+<file href="res/data/audios/snd-d3256dec2e5f71a914058fcb90630e06566099b2.mp3"/>
+<file href="res/data/audios/snd-e5d3d0ab18837137aa57d11e28d88649e87368f4.mp3"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
